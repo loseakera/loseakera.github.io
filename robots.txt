@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://loseakera.github.io/sitemap
+Sitemap: https://loseakera.github.io/app/sitemap
+Sitemap: https://loseakera.github.io/assets/sitemap
+Sitemap: https://loseakera.github.io/css/sitemap
+Sitemap: https://loseakera.github.io/includes/sitemap
+Sitemap: https://loseakera.github.io/item/sitemap
+Sitemap: https://loseakera.github.io/src/sitemap
